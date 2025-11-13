@@ -1,2 +1,1 @@
-# codex1
-code repository1
+student code repsitory
